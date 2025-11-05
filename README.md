@@ -13,7 +13,7 @@ A beginner-friendly Amazon homepage clone built with HTML and CSS, featuring res
 - Font Awesome (for icons)
 
 ## How to Run
-1. Clone the repo: `git clone [your-repo-url]`
+1. Clone the repo: `git clone [https://github.com/Saurav-kundalia/Amazon-clone.git]`
 2. Open `index.html` in a browser.
 3. Ensure images (e.g., amazon_logo.png) are in the same folder.
    
