@@ -16,6 +16,7 @@ A beginner-friendly Amazon homepage clone built with HTML and CSS, featuring res
 1. Clone the repo: `git clone [your-repo-url]`
 2. Open `index.html` in a browser.
 3. Ensure images (e.g., amazon_logo.png) are in the same folder.
+   
 
 ## License
 [Optional: Add MIT or another license if desired]
